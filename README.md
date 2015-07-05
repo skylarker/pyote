@@ -1,4 +1,4 @@
-# pyez
+# pyote
 Python Utils for the Humans
 
 ## List
