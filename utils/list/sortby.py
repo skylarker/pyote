@@ -10,7 +10,7 @@ class SortBy(object):
 
     def sort_in_chunks(self, list_):
         """
-        Sort the list in chunks parallely
+        Sort the list by chunks as a parallel operation.
 
         """
         print self
