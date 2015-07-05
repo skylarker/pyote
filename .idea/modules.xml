@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pyez.iml" filepath="$PROJECT_DIR$/.idea/pyez.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pyote.iml" filepath="$PROJECT_DIR$/.idea/pyote.iml" />
     </modules>
   </component>
 </project>
