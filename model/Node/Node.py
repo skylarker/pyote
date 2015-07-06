@@ -1,3 +1,3 @@
-class Graph(object):
+class Node(object):
     def __init__(self):
         pass
