@@ -1,3 +1,3 @@
-class Graph(object):
+class PriorityQueue(object):
     def __init__(self):
         pass
